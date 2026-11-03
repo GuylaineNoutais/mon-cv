@@ -49,7 +49,7 @@ body { background: #2b1830; font-family: var(--font); color: var(--text); -webki
   display: grid; place-items: center;
 }
 .photo span { font-size: 54px; font-weight: 700; color: #e9dcef; }
-.photo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.photo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center 18%; }
 
 .study { font-size: 11px; line-height: 1.7; margin-bottom: 36px; }
 
